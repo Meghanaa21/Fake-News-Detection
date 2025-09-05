@@ -57,11 +57,3 @@ L(y, \hat{y}) = -y \log(\hat{y}) - (1 - y)\log(1 - \hat{y})
 - **Recall:** 99.17%  
 - **F1 Score:** 99.22%  
 
----
-
-## 🚀 How to Run
-
-### 1. Clone the Repository
-```bash
-git clone https://github.com/YOUR-USERNAME/fake-news-detection.git
-cd fake-news-detection
